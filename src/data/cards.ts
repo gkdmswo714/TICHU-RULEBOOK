@@ -1,0 +1,65 @@
+import { Card } from "@/types";
+export const ranks = [
+  "2",
+  "3",
+  "4",
+  "5",
+  "6",
+  "7",
+  "8",
+  "9",
+  "10",
+  "J",
+  "Q",
+  "K",
+  "A",
+];
+export const cards: Card[] = [
+  ...Array.from({ length: 4 }, (_, s) =>
+    ranks.map((rank) => ({
+      id: `s${s + 1}-${rank}`,
+      name: `${rank} · ${["칼", "초승달", "별", "집"][s]}`,
+      rank,
+      suit: s + 1,
+      description:
+        "일반 카드 · 2부터 A까지, 숫자가 클수록 강해요. 무늬 사이에는 우열이 없어요.",
+      rule: "combinations",
+    })),
+  ).flat(),
+  {
+    id: "dragon",
+    name: "용",
+    rank: "DRAGON",
+    suit: 0,
+    character: "dragon",
+    description: "가장 강한 싱글. 이긴 트릭은 상대에게 선물해요.",
+    rule: "dragon",
+  },
+  {
+    id: "dog",
+    name: "개",
+    rank: "DOG",
+    suit: 0,
+    character: "dog",
+    description: "새 트릭의 선을 팀원에게 넘겨요.",
+    rule: "dog",
+  },
+  {
+    id: "phoenix",
+    name: "봉황",
+    rank: "PHOENIX",
+    suit: 0,
+    character: "phoenix",
+    description: "일반 카드 한 장을 대신하는 조커예요.",
+    rule: "phoenix",
+  },
+  {
+    id: "sparrow",
+    name: "참새",
+    rank: "MAH JONG",
+    suit: 0,
+    character: "sparrow",
+    description: "숫자 1의 카드. 원하는 숫자를 소원으로 빌어요.",
+    rule: "wish",
+  },
+];
