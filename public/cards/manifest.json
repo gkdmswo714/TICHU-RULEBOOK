@@ -1,0 +1,674 @@
+[
+  {
+    "path": "/cards/sword/2.png",
+    "sourceBox": [
+      16,
+      8,
+      126,
+      195
+    ],
+    "centralPips": 2,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/sword/3.png",
+    "sourceBox": [
+      132,
+      8,
+      246,
+      195
+    ],
+    "centralPips": 3,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/sword/4.png",
+    "sourceBox": [
+      251,
+      8,
+      361,
+      195
+    ],
+    "centralPips": 4,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/sword/5.png",
+    "sourceBox": [
+      367,
+      8,
+      481,
+      195
+    ],
+    "centralPips": 5,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/sword/6.png",
+    "sourceBox": [
+      487,
+      8,
+      598,
+      195
+    ],
+    "centralPips": 6,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/sword/7.png",
+    "sourceBox": [
+      603,
+      8,
+      713,
+      195
+    ],
+    "centralPips": 7,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/sword/8.png",
+    "sourceBox": [
+      719,
+      8,
+      829,
+      195
+    ],
+    "centralPips": 8,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/sword/9.png",
+    "sourceBox": [
+      834,
+      8,
+      946,
+      195
+    ],
+    "centralPips": 9,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/sword/10.png",
+    "sourceBox": [
+      951,
+      8,
+      1060,
+      195
+    ],
+    "centralPips": 10,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/sword/J.png",
+    "sourceBox": [
+      1065,
+      8,
+      1176,
+      195
+    ],
+    "centralPips": null,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/sword/Q.png",
+    "sourceBox": [
+      1182,
+      8,
+      1294,
+      195
+    ],
+    "centralPips": null,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/sword/K.png",
+    "sourceBox": [
+      1299,
+      8,
+      1411,
+      195
+    ],
+    "centralPips": null,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/sword/A.png",
+    "sourceBox": [
+      1416,
+      8,
+      1526,
+      195
+    ],
+    "centralPips": null,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/crescent/2.png",
+    "sourceBox": [
+      16,
+      201,
+      126,
+      393
+    ],
+    "centralPips": 2,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/crescent/3.png",
+    "sourceBox": [
+      132,
+      201,
+      246,
+      393
+    ],
+    "centralPips": 3,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/crescent/4.png",
+    "sourceBox": [
+      251,
+      201,
+      361,
+      393
+    ],
+    "centralPips": 4,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/crescent/5.png",
+    "sourceBox": [
+      367,
+      201,
+      481,
+      393
+    ],
+    "centralPips": 5,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/crescent/6.png",
+    "sourceBox": [
+      487,
+      201,
+      598,
+      393
+    ],
+    "centralPips": 6,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/crescent/7.png",
+    "sourceBox": [
+      603,
+      201,
+      713,
+      393
+    ],
+    "centralPips": 7,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/crescent/8.png",
+    "sourceBox": [
+      719,
+      201,
+      829,
+      393
+    ],
+    "centralPips": 8,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/crescent/9.png",
+    "sourceBox": [
+      834,
+      201,
+      946,
+      393
+    ],
+    "centralPips": 9,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/crescent/10.png",
+    "sourceBox": [
+      951,
+      201,
+      1060,
+      393
+    ],
+    "centralPips": 10,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/crescent/J.png",
+    "sourceBox": [
+      1065,
+      201,
+      1176,
+      393
+    ],
+    "centralPips": null,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/crescent/Q.png",
+    "sourceBox": [
+      1182,
+      201,
+      1294,
+      393
+    ],
+    "centralPips": null,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/crescent/K.png",
+    "sourceBox": [
+      1299,
+      201,
+      1411,
+      393
+    ],
+    "centralPips": null,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/crescent/A.png",
+    "sourceBox": [
+      1416,
+      201,
+      1526,
+      393
+    ],
+    "centralPips": null,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/star/2.png",
+    "sourceBox": [
+      16,
+      399,
+      126,
+      594
+    ],
+    "centralPips": 2,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/star/3.png",
+    "sourceBox": [
+      132,
+      399,
+      246,
+      594
+    ],
+    "centralPips": 3,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/star/4.png",
+    "sourceBox": [
+      251,
+      399,
+      361,
+      594
+    ],
+    "centralPips": 4,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/star/5.png",
+    "sourceBox": [
+      367,
+      399,
+      481,
+      594
+    ],
+    "centralPips": 5,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/star/6.png",
+    "sourceBox": [
+      487,
+      399,
+      598,
+      594
+    ],
+    "centralPips": 6,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/star/7.png",
+    "sourceBox": [
+      603,
+      399,
+      713,
+      594
+    ],
+    "centralPips": 7,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/star/8.png",
+    "sourceBox": [
+      719,
+      399,
+      829,
+      594
+    ],
+    "centralPips": 8,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/star/9.png",
+    "sourceBox": [
+      834,
+      399,
+      946,
+      594
+    ],
+    "centralPips": 9,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/star/10.png",
+    "sourceBox": [
+      951,
+      399,
+      1060,
+      594
+    ],
+    "centralPips": 10,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/star/J.png",
+    "sourceBox": [
+      1065,
+      399,
+      1176,
+      594
+    ],
+    "centralPips": null,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/star/Q.png",
+    "sourceBox": [
+      1182,
+      399,
+      1294,
+      594
+    ],
+    "centralPips": null,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/star/K.png",
+    "sourceBox": [
+      1299,
+      399,
+      1411,
+      594
+    ],
+    "centralPips": null,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/star/A.png",
+    "sourceBox": [
+      1416,
+      399,
+      1526,
+      594
+    ],
+    "centralPips": null,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/house/2.png",
+    "sourceBox": [
+      16,
+      599,
+      126,
+      796
+    ],
+    "centralPips": 2,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/house/3.png",
+    "sourceBox": [
+      132,
+      599,
+      246,
+      796
+    ],
+    "centralPips": 3,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/house/4.png",
+    "sourceBox": [
+      251,
+      599,
+      361,
+      796
+    ],
+    "centralPips": 4,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/house/5.png",
+    "sourceBox": [
+      367,
+      599,
+      481,
+      796
+    ],
+    "centralPips": 5,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/house/6.png",
+    "sourceBox": [
+      487,
+      599,
+      598,
+      796
+    ],
+    "centralPips": 6,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/house/7.png",
+    "sourceBox": [
+      603,
+      599,
+      713,
+      796
+    ],
+    "centralPips": 7,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/house/8.png",
+    "sourceBox": [
+      719,
+      599,
+      829,
+      796
+    ],
+    "centralPips": 8,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/house/9.png",
+    "sourceBox": [
+      834,
+      599,
+      946,
+      796
+    ],
+    "centralPips": 9,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/house/10.png",
+    "sourceBox": [
+      951,
+      599,
+      1060,
+      796
+    ],
+    "centralPips": 10,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/house/J.png",
+    "sourceBox": [
+      1065,
+      599,
+      1176,
+      796
+    ],
+    "centralPips": null,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/house/Q.png",
+    "sourceBox": [
+      1182,
+      599,
+      1294,
+      796
+    ],
+    "centralPips": null,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/house/K.png",
+    "sourceBox": [
+      1299,
+      599,
+      1411,
+      796
+    ],
+    "centralPips": null,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/house/A.png",
+    "sourceBox": [
+      1416,
+      599,
+      1526,
+      796
+    ],
+    "centralPips": null,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/special/mahjong.png",
+    "sourceBox": [
+      401,
+      804,
+      539,
+      1005
+    ],
+    "centralPips": null,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/special/dragon.png",
+    "sourceBox": [
+      551,
+      804,
+      690,
+      1005
+    ],
+    "centralPips": null,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/special/dog.png",
+    "sourceBox": [
+      700,
+      804,
+      836,
+      1005
+    ],
+    "centralPips": null,
+    "width": 224,
+    "height": 384
+  },
+  {
+    "path": "/cards/special/phoenix.png",
+    "sourceBox": [
+      845,
+      804,
+      984,
+      1005
+    ],
+    "centralPips": null,
+    "width": 224,
+    "height": 384
+  }
+]
